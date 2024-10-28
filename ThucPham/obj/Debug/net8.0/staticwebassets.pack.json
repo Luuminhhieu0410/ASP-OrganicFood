@@ -1,0 +1,1409 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ThucPham.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ThucPham.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\css\\main.css",
+      "PackagePath": "staticwebassets\\Loginform\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\css\\util.css",
+      "PackagePath": "staticwebassets\\Loginform\\css\\util.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\Linearicons-Free-v1.0.0\\icon-font.min.css",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\Linearicons-Free-v1.0.0\\icon-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\montserrat\\Montserrat-Black.ttf",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\montserrat\\Montserrat-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\montserrat\\Montserrat-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\montserrat\\Montserrat-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\montserrat\\Montserrat-Bold.ttf",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\montserrat\\Montserrat-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\montserrat\\Montserrat-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\montserrat\\Montserrat-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\montserrat\\Montserrat-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\montserrat\\Montserrat-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\montserrat\\Montserrat-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\montserrat\\Montserrat-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\montserrat\\Montserrat-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\montserrat\\Montserrat-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\montserrat\\Montserrat-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\montserrat\\Montserrat-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\montserrat\\Montserrat-Italic.ttf",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\montserrat\\Montserrat-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\montserrat\\Montserrat-Light.ttf",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\montserrat\\Montserrat-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\montserrat\\Montserrat-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\montserrat\\Montserrat-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\montserrat\\Montserrat-Medium.ttf",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\montserrat\\Montserrat-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\montserrat\\Montserrat-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\montserrat\\Montserrat-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\montserrat\\Montserrat-Regular.ttf",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\montserrat\\Montserrat-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\montserrat\\Montserrat-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\montserrat\\Montserrat-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\montserrat\\Montserrat-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\montserrat\\Montserrat-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\montserrat\\Montserrat-Thin.ttf",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\montserrat\\Montserrat-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\montserrat\\Montserrat-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\montserrat\\Montserrat-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\montserrat\\OFL.txt",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\montserrat\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\fonts\\poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\Loginform\\fonts\\poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\images\\bg-01.jpg",
+      "PackagePath": "staticwebassets\\Loginform\\images\\bg-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\images\\icons\\favicon.ico",
+      "PackagePath": "staticwebassets\\Loginform\\images\\icons\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\images\\icons\\icon-google.png",
+      "PackagePath": "staticwebassets\\Loginform\\images\\icons\\icon-google.png"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\images\\icons\\map-marker.png",
+      "PackagePath": "staticwebassets\\Loginform\\images\\icons\\map-marker.png"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\images\\icons\\symbol-01.png",
+      "PackagePath": "staticwebassets\\Loginform\\images\\icons\\symbol-01.png"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\js\\main.js",
+      "PackagePath": "staticwebassets\\Loginform\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\Loginform\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\vendor\\animsition\\css\\animsition.css",
+      "PackagePath": "staticwebassets\\Loginform\\vendor\\animsition\\css\\animsition.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\vendor\\animsition\\css\\animsition.min.css",
+      "PackagePath": "staticwebassets\\Loginform\\vendor\\animsition\\css\\animsition.min.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\vendor\\animsition\\js\\animsition.js",
+      "PackagePath": "staticwebassets\\Loginform\\vendor\\animsition\\js\\animsition.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\vendor\\animsition\\js\\animsition.min.js",
+      "PackagePath": "staticwebassets\\Loginform\\vendor\\animsition\\js\\animsition.min.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Loginform\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\Loginform\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Loginform\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\Loginform\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Loginform\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\Loginform\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Loginform\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\Loginform\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Loginform\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Loginform\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Loginform\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Loginform\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Loginform\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Loginform\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\Loginform\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\Loginform\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\Loginform\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\vendor\\countdowntime\\countdowntime.js",
+      "PackagePath": "staticwebassets\\Loginform\\vendor\\countdowntime\\countdowntime.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\Loginform\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\Loginform\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\vendor\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\Loginform\\vendor\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\vendor\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\Loginform\\vendor\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\vendor\\daterangepicker\\moment.js",
+      "PackagePath": "staticwebassets\\Loginform\\vendor\\daterangepicker\\moment.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\vendor\\daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\Loginform\\vendor\\daterangepicker\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\Loginform\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\Loginform\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\Loginform\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\Loginform\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\Loginform\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\Loginform\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\Loginform\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\Loginform\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\1.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\10.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\11.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\12.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\13.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\14.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\15.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\16.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\17.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\18.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\19.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\2.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\20.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\21.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\22.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\23.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\24.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\25.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\26.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\27.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\28.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\29.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\3.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\30.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\31.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\32.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\33.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\34.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\35.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\35.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\36.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\36.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\37.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\37.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\38.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\38.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\39.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\39.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\4.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\40.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\40.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\41.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\42.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\42.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\43.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\43.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\44.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\44.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\45.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\45.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\46.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\46.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\47.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\47.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\48.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\48.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\49.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\49.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\5.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\50.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\50.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\51.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\51.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\52.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\52.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\53.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\53.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\54.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\54.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\55.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\55.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\56.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\56.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\6.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\7.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\8.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\imageProduct\\9.jpg",
+      "PackagePath": "staticwebassets\\imageProduct\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\layout\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\layout\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\layout\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\layout\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\layout\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\layout\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\layout\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\css\\style.css",
+      "PackagePath": "staticwebassets\\layout\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\layout\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\layout\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\layout\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\layout\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\layout\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\layout\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\layout\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\layout\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\layout\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\layout\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\banner\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\banner\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\blog\\details\\details-author.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\details\\details-author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\blog\\details\\details-hero.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\details\\details-hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\blog\\details\\details-pic.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\details\\details-pic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\blog\\sidebar\\sr-1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\sidebar\\sr-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\blog\\sidebar\\sr-2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\sidebar\\sr-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\blog\\sidebar\\sr-3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\blog\\sidebar\\sr-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\breadcrumb.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\breadcrumb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\cart\\cart-1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\cart\\cart-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\cart\\cart-2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\cart\\cart-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\cart\\cart-3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\cart\\cart-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\categories\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\categories\\cat-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\categories\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\categories\\cat-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\categories\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\categories\\cat-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\categories\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\categories\\cat-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\categories\\cat-5-new.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\categories\\cat-5-new.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\featured\\feature-1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\featured\\feature-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\featured\\feature-2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\featured\\feature-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\featured\\feature-3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\featured\\feature-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\featured\\feature-4.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\featured\\feature-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\featured\\feature-5.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\featured\\feature-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\featured\\feature-6.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\featured\\feature-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\featured\\feature-7.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\featured\\feature-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\featured\\feature-8.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\featured\\feature-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\hero\\banner.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\hero\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\language.png",
+      "PackagePath": "staticwebassets\\layout\\img\\language.png"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\latest-product\\lp-1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\latest-product\\lp-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\latest-product\\lp-2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\latest-product\\lp-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\latest-product\\lp-3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\latest-product\\lp-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\logo.png",
+      "PackagePath": "staticwebassets\\layout\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\payment-item.png",
+      "PackagePath": "staticwebassets\\layout\\img\\payment-item.png"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\product\\details\\product-details-1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\details\\product-details-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\product\\details\\product-details-2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\details\\product-details-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\product\\details\\product-details-3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\details\\product-details-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\product\\details\\product-details-4.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\details\\product-details-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\product\\details\\product-details-5.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\details\\product-details-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\product\\details\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\details\\thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\product\\details\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\details\\thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\product\\details\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\details\\thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\product\\details\\thumb-4.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\details\\thumb-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\product\\discount\\pd-1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\discount\\pd-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\product\\discount\\pd-2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\discount\\pd-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\product\\discount\\pd-3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\discount\\pd-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\product\\discount\\pd-4.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\discount\\pd-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\product\\discount\\pd-5.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\discount\\pd-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\product\\discount\\pd-6.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\discount\\pd-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\product\\product-1.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\product\\product-10.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\product\\product-11.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\product\\product-12.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\product\\product-2.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\product\\product-3.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\product\\product-4.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\product\\product-5.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\product\\product-6.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\product\\product-7.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\product\\product-8.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\product\\product-9.jpg",
+      "PackagePath": "staticwebassets\\layout\\img\\product\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\layout\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\layout\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\layout\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\layout\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\layout\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\js\\main.js",
+      "PackagePath": "staticwebassets\\layout\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\layout\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\layout\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ThucPham.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ThucPham.props",
+      "PackagePath": "build\\ThucPham.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ThucPham.props",
+      "PackagePath": "buildMultiTargeting\\ThucPham.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ThucPham.props",
+      "PackagePath": "buildTransitive\\ThucPham.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
