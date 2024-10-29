@@ -23,6 +23,7 @@ namespace ThucPham.Controllers
                 {
                     HttpContext.Session.SetString("UserName", u.HoTen.ToString());
                     HttpContext.Session.SetString("Email", u.Email.ToString());
+                    HttpContext.Session.SetString("MaKh", u.MaKh.ToString());
                     var a = HttpContext.Session.GetString("UserName");
 
 

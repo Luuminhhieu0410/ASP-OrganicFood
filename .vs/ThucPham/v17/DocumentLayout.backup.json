@@ -3,32 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\luu79\\source\\repos\\ThucPham\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|c:\\users\\luu79\\source\\repos\\thucpham\\thucpham\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|solutionrelative:thucpham\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|c:\\users\\luu79\\source\\repos\\thucpham\\thucpham\\views\\cart\\shopcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|solutionrelative:thucpham\\views\\cart\\shopcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|c:\\users\\luu79\\source\\repos\\thucpham\\thucpham\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|solutionrelative:thucpham\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|c:\\users\\luu79\\source\\repos\\thucpham\\thucpham\\models\\qlthucphamhuucocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|solutionrelative:thucpham\\models\\qlthucphamhuucocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|c:\\users\\luu79\\source\\repos\\thucpham\\thucpham\\models\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|solutionrelative:thucpham\\models\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|c:\\users\\luu79\\source\\repos\\thucpham\\thucpham\\views\\shared\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|solutionrelative:thucpham\\views\\shared\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|c:\\users\\luu79\\source\\repos\\thucpham\\thucpham\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|solutionrelative:thucpham\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|c:\\users\\luu79\\source\\repos\\thucpham\\thucpham\\models\\cartitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|solutionrelative:thucpham\\models\\cartitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|c:\\users\\luu79\\source\\repos\\thucpham\\thucpham\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|solutionrelative:thucpham\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|c:\\users\\luu79\\source\\repos\\thucpham\\thucpham\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|solutionrelative:thucpham\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|c:\\users\\luu79\\source\\repos\\thucpham\\thucpham\\views\\access\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|solutionrelative:thucpham\\views\\access\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|c:\\users\\luu79\\source\\repos\\thucpham\\thucpham\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|solutionrelative:thucpham\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|c:\\users\\luu79\\source\\repos\\thucpham\\thucpham\\models\\authentication\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|solutionrelative:thucpham\\models\\authentication\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|c:\\users\\luu79\\source\\repos\\thucpham\\thucpham\\views\\access\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|solutionrelative:thucpham\\views\\access\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|c:\\users\\luu79\\source\\repos\\thucpham\\thucpham\\views\\home\\sanphamtheoloai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|solutionrelative:thucpham\\views\\home\\sanphamtheoloai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|c:\\users\\luu79\\source\\repos\\thucpham\\thucpham\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|solutionrelative:thucpham\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|c:\\users\\luu79\\source\\repos\\thucpham\\thucpham\\models\\phieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|solutionrelative:thucpham\\models\\phieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|c:\\users\\luu79\\source\\repos\\thucpham\\thucpham\\views\\shared\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|solutionrelative:thucpham\\views\\shared\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|c:\\users\\luu79\\source\\repos\\thucpham\\thucpham\\views\\home\\chitietsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -37,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|c:\\users\\luu79\\source\\repos\\thucpham\\thucpham\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|solutionrelative:thucpham\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|c:\\users\\luu79\\source\\repos\\thucpham\\thucpham\\views\\home\\sanphamtheoloai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|solutionrelative:thucpham\\views\\home\\sanphamtheoloai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|c:\\users\\luu79\\source\\repos\\thucpham\\thucpham\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -63,16 +87,8 @@
       "RelativeMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|solutionrelative:thucpham\\models\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|c:\\users\\luu79\\source\\repos\\thucpham\\thucpham\\models\\qlthucphamhuucocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|solutionrelative:thucpham\\models\\qlthucphamhuucocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|c:\\users\\luu79\\source\\repos\\thucpham\\thucpham\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|solutionrelative:thucpham\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|c:\\users\\luu79\\source\\repos\\thucpham\\thucpham\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|solutionrelative:thucpham\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22130AD0-66AA-4385-8FFE-A15082DFC348}|ThucPham\\ThucPham.csproj|c:\\users\\luu79\\source\\repos\\thucpham\\thucpham\\models\\danhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -102,7 +118,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -110,69 +126,169 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "ThucPham\\Controllers\\CartController.cs",
-              "ToolTip": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Controllers\\CartController.cs*",
-              "RelativeToolTip": "ThucPham\\Controllers\\CartController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T15:46:53.376Z",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ThucPham\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ThucPham\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T10:22:08.737Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PhieuNhap.cs",
-              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Models\\PhieuNhap.cs",
-              "RelativeDocumentMoniker": "ThucPham\\Models\\PhieuNhap.cs",
-              "ToolTip": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Models\\PhieuNhap.cs",
-              "RelativeToolTip": "ThucPham\\Models\\PhieuNhap.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T10:07:20.329Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "TaiKhoanAdmin.cs",
-              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Models\\TaiKhoanAdmin.cs",
-              "RelativeDocumentMoniker": "ThucPham\\Models\\TaiKhoanAdmin.cs",
-              "ToolTip": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Models\\TaiKhoanAdmin.cs",
-              "RelativeToolTip": "ThucPham\\Models\\TaiKhoanAdmin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T10:07:15.63Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "login.cshtml",
-              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Views\\Access\\login.cshtml",
-              "RelativeDocumentMoniker": "ThucPham\\Views\\Access\\login.cshtml",
-              "ToolTip": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Views\\Access\\login.cshtml",
-              "RelativeToolTip": "ThucPham\\Views\\Access\\login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ShopCart.cshtml",
+              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Views\\Cart\\ShopCart.cshtml",
+              "RelativeDocumentMoniker": "ThucPham\\Views\\Cart\\ShopCart.cshtml",
+              "ToolTip": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Views\\Cart\\ShopCart.cshtml",
+              "RelativeToolTip": "ThucPham\\Views\\Cart\\ShopCart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-27T15:31:13.501Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AccessController.cs",
-              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Controllers\\AccessController.cs",
-              "RelativeDocumentMoniker": "ThucPham\\Controllers\\AccessController.cs",
-              "ToolTip": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Controllers\\AccessController.cs",
-              "RelativeToolTip": "ThucPham\\Controllers\\AccessController.cs",
-              "ViewState": "AgIAAAMAAAAAMzMzMzMLwBIAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T15:02:48.777Z",
+              "WhenOpened": "2024-10-29T04:04:50.989Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "ThucPham\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Controllers\\CartController.cs",
+              "RelativeToolTip": "ThucPham\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:46:53.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QlthucPhamHuuCoContext.cs",
+              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Models\\QlthucPhamHuuCoContext.cs",
+              "RelativeDocumentMoniker": "ThucPham\\Models\\QlthucPhamHuuCoContext.cs",
+              "ToolTip": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Models\\QlthucPhamHuuCoContext.cs",
+              "RelativeToolTip": "ThucPham\\Models\\QlthucPhamHuuCoContext.cs",
+              "ViewState": "AgIAAAwAAACAMjMzMzMHwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T03:11:34.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ThucPham\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ThucPham\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T03:26:16.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GioHang.cs",
+              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Models\\GioHang.cs",
+              "RelativeDocumentMoniker": "ThucPham\\Models\\GioHang.cs",
+              "ToolTip": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Models\\GioHang.cs",
+              "RelativeToolTip": "ThucPham\\Models\\GioHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:45:09.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Views\\Shared\\layout.cshtml",
+              "RelativeDocumentMoniker": "ThucPham\\Views\\Shared\\layout.cshtml",
+              "ToolTip": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Views\\Shared\\layout.cshtml",
+              "RelativeToolTip": "ThucPham\\Views\\Shared\\layout.cshtml",
+              "ViewState": "AgIAADUAAAAAAAAAAAAowEsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T03:37:14.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartItemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Models\\CartItemViewModel.cs",
+              "RelativeDocumentMoniker": "ThucPham\\Models\\CartItemViewModel.cs",
+              "ToolTip": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Models\\CartItemViewModel.cs",
+              "RelativeToolTip": "ThucPham\\Models\\CartItemViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:59:08.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Views\\Access\\login.cshtml",
+              "RelativeDocumentMoniker": "ThucPham\\Views\\Access\\login.cshtml",
+              "ToolTip": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Views\\Access\\login.cshtml",
+              "RelativeToolTip": "ThucPham\\Views\\Access\\login.cshtml",
+              "ViewState": "AgIAAAkAAAAAzczMzMwHwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T15:31:13.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ThucPham\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ThucPham\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T03:17:49.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SanPhamTheoLoai.cshtml",
+              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Views\\Home\\SanPhamTheoLoai.cshtml",
+              "RelativeDocumentMoniker": "ThucPham\\Views\\Home\\SanPhamTheoLoai.cshtml",
+              "ToolTip": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Views\\Home\\SanPhamTheoLoai.cshtml",
+              "RelativeToolTip": "ThucPham\\Views\\Home\\SanPhamTheoLoai.cshtml",
+              "ViewState": "AgIAACMAAACQZmZmZiYgwDYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T02:39:29.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccessController.cs",
+              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Controllers\\AccessController.cs",
+              "RelativeDocumentMoniker": "ThucPham\\Controllers\\AccessController.cs",
+              "ToolTip": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Controllers\\AccessController.cs",
+              "RelativeToolTip": "ThucPham\\Controllers\\AccessController.cs",
+              "ViewState": "AgIAAAwAAACgzMzMzMwuwB0AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T15:02:48.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Models\\Authentication\\Authentication.cs",
+              "RelativeDocumentMoniker": "ThucPham\\Models\\Authentication\\Authentication.cs",
+              "ToolTip": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Models\\Authentication\\Authentication.cs",
+              "RelativeToolTip": "ThucPham\\Models\\Authentication\\Authentication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:24:06.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "ChiTietSanPham.cshtml",
               "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Views\\Home\\ChiTietSanPham.cshtml",
               "RelativeDocumentMoniker": "ThucPham\\Views\\Home\\ChiTietSanPham.cshtml",
@@ -184,32 +300,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ThucPham\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ThucPham\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAArwDcAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 17,
+              "Title": "TaiKhoanAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Models\\TaiKhoanAdmin.cs",
+              "RelativeDocumentMoniker": "ThucPham\\Models\\TaiKhoanAdmin.cs",
+              "ToolTip": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Models\\TaiKhoanAdmin.cs",
+              "RelativeToolTip": "ThucPham\\Models\\TaiKhoanAdmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T03:17:49.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T10:07:15.63Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Authentication.cs",
-              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Models\\Authentication\\Authentication.cs",
-              "RelativeDocumentMoniker": "ThucPham\\Models\\Authentication\\Authentication.cs",
-              "ToolTip": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Models\\Authentication\\Authentication.cs",
-              "RelativeToolTip": "ThucPham\\Models\\Authentication\\Authentication.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "PhieuNhap.cs",
+              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Models\\PhieuNhap.cs",
+              "RelativeDocumentMoniker": "ThucPham\\Models\\PhieuNhap.cs",
+              "ToolTip": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Models\\PhieuNhap.cs",
+              "RelativeToolTip": "ThucPham\\Models\\PhieuNhap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T11:24:06.505Z"
+              "WhenOpened": "2024-10-28T10:07:20.329Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "ChiTietHoaDon.cs",
               "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Models\\ChiTietHoaDon.cs",
               "RelativeDocumentMoniker": "ThucPham\\Models\\ChiTietHoaDon.cs",
@@ -221,31 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Views\\Shared\\layout.cshtml",
-              "RelativeDocumentMoniker": "ThucPham\\Views\\Shared\\layout.cshtml",
-              "ToolTip": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Views\\Shared\\layout.cshtml",
-              "RelativeToolTip": "ThucPham\\Views\\Shared\\layout.cshtml",
-              "ViewState": "AgIAAFsAAABMyczMzIwjwGwAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-25T03:37:14.426Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SanPhamTheoLoai.cshtml",
-              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Views\\Home\\SanPhamTheoLoai.cshtml",
-              "RelativeDocumentMoniker": "ThucPham\\Views\\Home\\SanPhamTheoLoai.cshtml",
-              "ToolTip": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Views\\Home\\SanPhamTheoLoai.cshtml",
-              "RelativeToolTip": "ThucPham\\Views\\Home\\SanPhamTheoLoai.cshtml",
-              "ViewState": "AgIAACoAAADgzMzMzMwXwDYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-27T02:39:29.566Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "cat-5-new.jpg - Bitmap [225x225, 24 bit, JPG]",
               "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\img\\categories\\cat-5-new.jpg",
               "RelativeDocumentMoniker": "ThucPham\\wwwroot\\layout\\img\\categories\\cat-5-new.jpg",
@@ -257,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "ThucPham\\Views\\Shared\\Error.cshtml",
@@ -269,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Views\\Shared\\Components\\DanhMucMenu\\Default.cshtml",
               "RelativeDocumentMoniker": "ThucPham\\Views\\Shared\\Components\\DanhMucMenu\\Default.cshtml",
@@ -281,7 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "DanhMucMenuComponent.cs",
               "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\ViewComponents\\DanhMucMenuComponent.cs",
               "RelativeDocumentMoniker": "ThucPham\\ViewComponents\\DanhMucMenuComponent.cs",
@@ -293,7 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "DanhMucRepository.cs",
               "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Repository\\DanhMucRepository.cs",
               "RelativeDocumentMoniker": "ThucPham\\Repository\\DanhMucRepository.cs",
@@ -305,7 +396,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "IDanhMucRepository.cs",
               "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Repository\\IDanhMucRepository.cs",
               "RelativeDocumentMoniker": "ThucPham\\Repository\\IDanhMucRepository.cs",
@@ -317,7 +408,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "DanhMuc.cs",
               "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Models\\DanhMuc.cs",
               "RelativeDocumentMoniker": "ThucPham\\Models\\DanhMuc.cs",
@@ -329,7 +420,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "SanPham.cs",
               "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Models\\SanPham.cs",
               "RelativeDocumentMoniker": "ThucPham\\Models\\SanPham.cs",
@@ -341,7 +432,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Program.cs",
               "RelativeDocumentMoniker": "ThucPham\\Program.cs",
@@ -353,7 +444,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\appsettings.json",
               "RelativeDocumentMoniker": "ThucPham\\appsettings.json",
@@ -362,30 +453,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-10-25T03:40:44.838Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "QlthucPhamHuuCoContext.cs",
-              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Models\\QlthucPhamHuuCoContext.cs",
-              "RelativeDocumentMoniker": "ThucPham\\Models\\QlthucPhamHuuCoContext.cs",
-              "ToolTip": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Models\\QlthucPhamHuuCoContext.cs",
-              "RelativeToolTip": "ThucPham\\Models\\QlthucPhamHuuCoContext.cs",
-              "ViewState": "AgIAABEAAABgZWZmZgY2wIsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T03:11:34.375Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ThucPham\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ThucPham\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAABwPTMAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-25T03:26:16.836Z"
             }
           ]
         }

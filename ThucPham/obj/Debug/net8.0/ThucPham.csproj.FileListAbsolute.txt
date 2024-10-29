@@ -259,3 +259,4 @@ C:\Users\luu79\source\repos\ThucPham\ThucPham\bin\Debug\net8.0\runtimes\win\lib\
 C:\Users\luu79\source\repos\ThucPham\ThucPham\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\luu79\source\repos\ThucPham\ThucPham\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\luu79\source\repos\ThucPham\ThucPham\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\luu79\source\repos\ThucPham\ThucPham\obj\Debug\net8.0\ThucPham.sourcelink.json
