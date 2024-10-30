@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JTSNC9hwFmkVMufpokBQQJgk5+MM6u10hsGEB/5hoaA=",
+  "Hash": "xJ6BJ414YtQO0WCCvvK1BZ5A1xTvssNUiFhrbQQynbY=",
   "Source": "ThucPham",
   "BasePath": "_content/ThucPham",
   "Mode": "Default",
@@ -3188,6 +3188,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\layout\\js\\owl.carousel.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\js\\test.js",
+      "SourceId": "ThucPham",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\",
+      "BasePath": "_content/ThucPham",
+      "RelativePath": "layout/js/test.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\layout\\js\\test.js"
     },
     {
       "Identity": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",

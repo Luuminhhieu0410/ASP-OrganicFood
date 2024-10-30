@@ -1161,6 +1161,10 @@
       "PackagePath": "staticwebassets\\layout\\js\\owl.carousel.min.js"
     },
     {
+      "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\layout\\js\\test.js",
+      "PackagePath": "staticwebassets\\layout\\js\\test.js"
+    },
+    {
       "Id": "C:\\Users\\luu79\\source\\repos\\ThucPham\\ThucPham\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },

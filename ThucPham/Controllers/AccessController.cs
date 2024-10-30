@@ -34,6 +34,14 @@ namespace ThucPham.Controllers
             return View();
 
         }
+        public IActionResult Logout()
+        {
+            HttpContext.Session.Clear();
+            HttpContext.Session.Remove("UserName");
+            HttpContext.Session.Remove("Email");
+            HttpContext.Session.Remove("MaKh");
+            return RedirectToAction("login", "Access");
+        }
     }
 }
      

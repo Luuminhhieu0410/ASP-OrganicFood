@@ -1,4 +1,4 @@
-/*  ---------------------------------------------------
+﻿/*  ---------------------------------------------------
     Template Name: Ogani
     Description:  Ogani eCommerce  HTML Template
     Author: Colorlib
@@ -202,23 +202,160 @@
     /*-------------------
 		Quantity change
 	--------------------- */
-    var proQty = $('.pro-qty');
-    proQty.prepend('<span class="dec qtybtn">-</span>');
-    proQty.append('<span class="inc qtybtn">+</span>');
-    proQty.on('click', '.qtybtn', function () {
-        var $button = $(this);
-        var oldValue = $button.parent().find('input').val();
-        if ($button.hasClass('inc')) {
-            var newVal = parseFloat(oldValue) + 1;
-        } else {
-            // Don't allow decrementing below zero
-            if (oldValue > 0) {
-                var newVal = parseFloat(oldValue) - 1;
-            } else {
-                newVal = 0;
-            }
+    $(document).ready(function () {
+        // Thêm nút tăng/giảm vào mỗi phần tử có class 'pro-qty'
+        $('.pro-qty').each(function () {
+            $(this).prepend('<span class="dec qtybtn">-</span>');
+            $(this).append('<span class="inc qtybtn">+</span>');
+        });
+
+        // Hàm cập nhật tổng tiền cho từng sản phẩm
+        function updateProductTotal($input) {
+            const qty = parseFloat($input.val()); // Số lượng mới
+            const price = parseFloat(
+                $input.closest('tr').find('.shoping__cart__price').text().replace(/[^0-9.-]+/g, "")
+            ); // Lấy giá sản phẩm
+
+            const total = qty * price; // Tính tổng tiền của sản phẩm đó
+            $input.closest('tr').find('.shoping__cart__total').text(
+                total.toLocaleString('en-US', { style: 'currency', currency: 'USD' })
+            );
+
+            return total; // Trả về tổng tiền của sản phẩm
         }
-        $button.parent().find('input').val(newVal);
+
+        // Hàm cập nhật tổng tiền của tất cả sản phẩm trong giỏ hàng
+        function updateCartTotal() {
+            let cartTotal = 0;
+            $('.shoping__cart__total').each(function () {
+                const productTotal = parseFloat($(this).text().replace(/[^0-9.-]+/g, ""));
+                cartTotal += productTotal; // Cộng dồn tổng tiền sản phẩm
+            });
+
+            // Cập nhật giá trị tổng tiền giỏ hàng
+            $('.shoping__checkout ul li:nth-child(1) span').text(
+                cartTotal.toLocaleString('en-US', { style: 'currency', currency: 'USD' })
+            );
+            $('.shoping__checkout ul li:nth-child(2) span').text(
+                cartTotal.toLocaleString('en-US', { style: 'currency', currency: 'USD' })
+            );
+        }
+
+        // Sự kiện click cho nút tăng/giảm số lượng
+        $('.pro-qty').on('click', '.qtybtn', function () {
+            const $button = $(this);
+            const $input = $button.siblings('input'); // Lấy input tương ứng trong hàng
+
+            let oldValue = parseFloat($input.val());
+            let newVal;
+
+            // Xử lý tăng hoặc giảm số lượng
+            if ($button.hasClass('inc')) {
+                newVal = oldValue + 1; // Tăng số lượng
+            } else {
+                newVal = oldValue > 0 ? oldValue - 1 : 0; // Giảm số lượng (không dưới 0)
+            }
+
+            $input.val(newVal); // Cập nhật số lượng mới vào input
+            const productTotal = updateProductTotal($input); // Cập nhật tổng tiền sản phẩm
+            updateCartTotal(); // Cập nhật tổng tiền giỏ hàng
+        });
+
+        // Cập nhật tổng tiền khi trang được tải
+        updateCartTotal();
     });
+
+    $(document).ready(function () {
+        // Hàm cập nhật tổng tiền cho từng sản phẩm
+        function updateProductTotal($input) {
+            const qty = parseFloat($input.val()); // Số lượng mới
+            const price = parseFloat(
+                $input.closest('tr').find('.shoping__cart__price').text().replace(/[^0-9.-]+/g, "")
+            ); // Lấy giá sản phẩm
+
+            const total = qty * price; // Tính tổng tiền của sản phẩm đó
+            $input.closest('tr').find('.shoping__cart__total').text(
+                total.toLocaleString('en-US', { style: 'currency', currency: 'USD' })
+            );
+
+            return total; // Trả về tổng tiền của sản phẩm
+        }
+
+        // Hàm cập nhật tổng tiền của tất cả sản phẩm trong giỏ hàng
+        function updateCartTotal() {
+            let cartTotal = 0;
+            $('.shoping__cart__total').each(function () {
+                const productTotal = parseFloat($(this).text().replace(/[^0-9.-]+/g, ""));
+                cartTotal += productTotal; // Cộng dồn tổng tiền sản phẩm
+            });
+
+            // Cập nhật giá trị tổng tiền giỏ hàng
+            $('#TongTienToanSanPham').text(
+                cartTotal.toLocaleString('en-US', { style: 'currency', currency: 'USD' })
+            );
+        }
+
+        // Sự kiện click cho nút tăng/giảm số lượng
+        $('.pro-qty').on('click', '.qtybtn', function () {
+            const $button = $(this);
+            const $input = $button.siblings('input'); // Lấy input tương ứng trong hàng
+
+            let oldValue = parseFloat($input.val());
+            let newVal;
+
+            // Xử lý tăng hoặc giảm số lượng
+            if ($button.hasClass('inc')) {
+                newVal = oldValue + 1; // Tăng số lượng
+            } else {
+                newVal = oldValue > 0 ? oldValue - 1 : 0; // Giảm số lượng (không dưới 0)
+            }
+
+            $input.val(newVal); // Cập nhật số lượng mới vào input
+            updateProductTotal($input); // Cập nhật tổng tiền sản phẩm
+            updateCartTotal(); // Cập nhật tổng tiền giỏ hàng
+        });
+
+        // Cập nhật tổng tiền khi trang được tải
+        updateCartTotal();
+
+        // Sự kiện khi nhấn nút "Update Cart"
+        $('.cart-btn-right').on('click', function (e) {
+            e.preventDefault(); // Ngăn chặn hành động mặc định của liên kết
+
+            // Tạo một mảng để lưu trữ các sản phẩm trong giỏ hàng
+            const cartItems = [];
+
+            // Duyệt qua từng hàng trong giỏ hàng để lấy thông tin
+            $('.shoping__cart__table tbody tr').each(function () {
+                const $tr = $(this);
+                const item = {
+                    TenSp: $tr.find('h5').text(), // Tên sản phẩm
+                    SoLuong: $tr.find('.SoLg').val(), // Số lượng
+                    Gia: parseFloat($tr.find('.shoping__cart__price').text().replace(/[^0-9.-]+/g, "")), // Giá
+                    TongTien: parseFloat($tr.find('.shoping__cart__total').text().replace(/[^0-9.-]+/g, "")) // Tổng tiền
+                };
+                cartItems.push(item);
+            });
+
+            // Gửi dữ liệu đến server (có thể sử dụng AJAX)
+            $.ajax({
+                type: "POST",
+                url: '/Cart/UpdateCart', // Đường dẫn đến action UpdateCart
+                contentType: "application/json",
+                data: JSON.stringify(cartItems),
+                success: function (response) {
+                    alert("Giỏ hàng đã được cập nhật!");
+                    // Có thể reload lại trang hoặc cập nhật lại thông tin hiển thị
+                    location.reload(); // Reload lại trang
+                },
+                error: function (xhr, status, error) {
+                    alert("Cập nhật giỏ hàng không thành công.");
+                }
+            });
+
+        });
+    });
+
+
 
 })(jQuery);
