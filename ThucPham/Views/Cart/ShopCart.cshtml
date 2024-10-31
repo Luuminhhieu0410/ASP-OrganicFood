@@ -24,9 +24,10 @@
                             {
                                 <tr>
                                     <td class="shoping__cart__item">
-                                        <img src="@Url.Content("../imageProduct/" + item.Anh)" alt="" style="width: 50px; height: 50px;">
+                                        <img src="@Url.Content("../imageProduct/" + item.Anh)" alt="" style="width: 50px; height: 50px;" data-masp="@item.MaSp">
                                         <h5>@item.TenSp</h5>
                                     </td>
+
                                     <td class="shoping__cart__price">
                                         @String.Format("{0:C}", item.Gia)
                                     </td>
@@ -53,11 +54,9 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="shoping__cart__btns">
-                    <a asp-controller="Home" asp-action = "Index" class="cart-btn">CONTINUE SHOPPING</a>
-                    <a href="#" class="primary-btn cart-btn cart-btn-right">
-                        
-                        Upadate Cart
-                    </a>
+                    <a asp-controller="Home" asp-action="Index" class="primary-btn cart-btn">CONTINUE SHOPPING</a>
+                    <a href="javascript:void(0);" id="updateCartBtn" class="primary-btn primary-btn cart-btn cart-btn-right">Update Cart</a>
+
                 </div>
             </div>
             <div class="col-lg-6">
@@ -87,4 +86,62 @@
 </section>
 
 
-<script src="../layout/js/test.js"></script>
+<script>
+    document.getElementById("updateCartBtn").addEventListener("click", function () {
+        var cartItems = [];
+
+        document.querySelectorAll("tbody tr").forEach(function (row) {
+            // Lấy MaSp từ thuộc tính data-masp
+            var maSp = row.querySelector(".shoping__cart__item img").getAttribute("data-masp");
+            var soLuong = row.querySelector(".SoLg").value;
+
+            // Kiểm tra xem MaSp và SoLuong có giá trị không
+            console.log("Mã sản phẩm:", maSp);
+            console.log("Số lượng:", soLuong);
+
+            if (maSp && soLuong > 0) {
+                cartItems.push({
+                    MaSp: parseInt(maSp, 10),
+                    SoLuong: parseInt(soLuong, 10)
+                });
+            }
+        });
+
+        // Kiểm tra mảng cartItems trong console
+        console.log("Dữ liệu gửi đi:", cartItems);
+
+        // Nếu có dữ liệu thì gửi AJAX
+        if (cartItems.length > 0) {
+            fetch('/Cart/UpdateCart', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(cartItems)
+            })
+                .then(response => response.json())
+                .then(data => {
+                    if (data.success) {
+                        alert(data.message);
+                    } else {
+                        alert("Có lỗi xảy ra: " + data.message);
+                    }
+                })
+                .catch(error => {
+                    console.error('Lỗi:', error);
+                    alert("Không thể cập nhật giỏ hàng.");
+                });
+        } else {
+            alert("Không có sản phẩm hợp lệ trong giỏ hàng.");
+        }
+    });
+
+
+</script>
+
+<style>
+    .primary-btn{
+        background-color: forestgreen !important;
+        color: white !important;
+    }
+</style>

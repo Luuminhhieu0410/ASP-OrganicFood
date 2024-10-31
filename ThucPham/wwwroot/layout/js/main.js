@@ -319,41 +319,7 @@
         updateCartTotal();
 
         // Sự kiện khi nhấn nút "Update Cart"
-        $('.cart-btn-right').on('click', function (e) {
-            e.preventDefault(); // Ngăn chặn hành động mặc định của liên kết
-
-            // Tạo một mảng để lưu trữ các sản phẩm trong giỏ hàng
-            const cartItems = [];
-
-            // Duyệt qua từng hàng trong giỏ hàng để lấy thông tin
-            $('.shoping__cart__table tbody tr').each(function () {
-                const $tr = $(this);
-                const item = {
-                    TenSp: $tr.find('h5').text(), // Tên sản phẩm
-                    SoLuong: $tr.find('.SoLg').val(), // Số lượng
-                    Gia: parseFloat($tr.find('.shoping__cart__price').text().replace(/[^0-9.-]+/g, "")), // Giá
-                    TongTien: parseFloat($tr.find('.shoping__cart__total').text().replace(/[^0-9.-]+/g, "")) // Tổng tiền
-                };
-                cartItems.push(item);
-            });
-
-            // Gửi dữ liệu đến server (có thể sử dụng AJAX)
-            $.ajax({
-                type: "POST",
-                url: '/Cart/UpdateCart', // Đường dẫn đến action UpdateCart
-                contentType: "application/json",
-                data: JSON.stringify(cartItems),
-                success: function (response) {
-                    alert("Giỏ hàng đã được cập nhật!");
-                    // Có thể reload lại trang hoặc cập nhật lại thông tin hiển thị
-                    location.reload(); // Reload lại trang
-                },
-                error: function (xhr, status, error) {
-                    alert("Cập nhật giỏ hàng không thành công.");
-                }
-            });
-
-        });
+        
     });
 
 

@@ -34,7 +34,45 @@ namespace ThucPham.Controllers
             return View();
 
         }
-        public IActionResult Logout()
+		[HttpGet]
+		public IActionResult Signup()
+		{
+			if (HttpContext.Session.GetString("UserName") == null)
+				return View();
+			else
+				return RedirectToAction("Index", "Home");
+		}
+
+		[HttpPost]
+		public IActionResult Signup(KhachHang kh, string NhapLaiMatKhau)
+		{
+			if (HttpContext.Session.GetString("UserName") == null)
+			{
+				if (kh.MatKhau != NhapLaiMatKhau)
+				{
+					ModelState.AddModelError("MatKhau", "Mật khẩu và Nhập lại mật khẩu không trùng khớp.");
+					return View();
+				}
+
+				if (db.KhachHangs.Any(x => x.Email == kh.Email))
+				{
+					ModelState.AddModelError("Email", "Email đã tồn tại.");
+					return View();
+				}
+
+				db.KhachHangs.Add(kh);
+				db.SaveChanges();
+
+				HttpContext.Session.SetString("UserName", kh.HoTen);
+				HttpContext.Session.SetString("Email", kh.Email);
+				HttpContext.Session.SetString("MaKh", kh.MaKh.ToString());
+
+				return RedirectToAction("Index", "Home");
+			}
+			return View();
+		}
+
+		public IActionResult Logout()
         {
             HttpContext.Session.Clear();
             HttpContext.Session.Remove("UserName");
