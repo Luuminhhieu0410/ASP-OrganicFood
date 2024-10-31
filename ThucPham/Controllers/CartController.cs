@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using ThucPham.Models;
 using System.Linq;
+using Microsoft.Data.SqlClient;
 
 namespace ThucPham.Controllers
 {
@@ -40,6 +41,50 @@ namespace ThucPham.Controllers
             _context.SaveChanges();
             return RedirectToAction("ShopCart");
         }
+        [HttpPost]
+        public IActionResult AddToCart1(int ProductId, int Quantity = 1)
+        {
+            if (Quantity <= 0)
+            {
+                return BadRequest(new { message = "Dữ liệu không hợp lệ." });
+            }
+
+            // Lấy MaKH từ session
+            int maKH = int.Parse(HttpContext.Session.GetString("MaKh"));
+
+            // Kiểm tra xem sản phẩm có tồn tại không
+            var product = _context.SanPhams.Find(ProductId);
+            if (product == null)
+            {
+                return NotFound(new { message = "Sản phẩm không tồn tại." });
+            }
+
+            // Kiểm tra xem sản phẩm đã tồn tại trong giỏ hàng chưa
+            var existingCartItem = _context.GioHangs
+                .FirstOrDefault(g => g.MaKh == maKH && g.MaSp == ProductId);
+
+            if (existingCartItem != null)
+            {
+                // Nếu có, cập nhật số lượng
+                existingCartItem.SoLuong += Quantity;
+            }
+            else
+            {
+                // Nếu không, tạo mới sản phẩm trong giỏ hàng
+                var cartItem = new GioHang
+                {
+                    MaKh = maKH,
+                    MaSp = ProductId,
+                    SoLuong = Quantity
+                };
+                _context.GioHangs.Add(cartItem);
+            }
+
+            // Lưu thay đổi vào cơ sở dữ liệu
+            _context.SaveChanges();
+
+            return Ok(new { message = "Sản phẩm đã được thêm vào giỏ hàng!" });
+        }
 
         public IActionResult ShopCart()
         {
@@ -61,70 +106,61 @@ namespace ThucPham.Controllers
 
             return View(cartItems);
         }
-        [HttpPost]
-        public IActionResult UpdateCart([FromBody] List<CartItemViewModel> cartItems)
+
+   
+    public IActionResult UpdateCart([FromBody] List<CartItemViewModel> cartItems)
+    {
+        if (cartItems == null || !cartItems.Any())
         {
-            // Kiểm tra xem cartItems có null hay không
-            if (cartItems == null || !cartItems.Any())
-            {
-                return BadRequest("Dữ liệu không hợp lệ.");
-            }
-
-            int maKH = int.Parse(HttpContext.Session.GetString("MaKh"));
-
-            // Xóa tất cả sản phẩm trong giỏ hàng của khách hàng
-            var existingItems = _context.GioHangs.Where(gh => gh.MaKh == maKH).ToList();
-            _context.GioHangs.RemoveRange(existingItems);
-
-            try
-            {
-                // Thêm sản phẩm mới vào giỏ hàng
-                foreach (var item in cartItems)
-                {
-                    if (item.SoLuong > 0) // Chỉ thêm sản phẩm có số lượng lớn hơn 0
-                    {
-                        // Tìm sản phẩm trong cơ sở dữ liệu
-                        var product = _context.SanPhams.Find(item.MaSp);
-
-                        if (product != null)
-                        {
-                            var gioHangItem = new GioHang
-                            {
-                                MaKh = maKH,
-                                MaSp = item.MaSp,
-                                SoLuong = item.SoLuong
-                            };
-                            _context.GioHangs.Add(gioHangItem);
-                        }
-                        else
-                        {
-                            // Xử lý khi sản phẩm không tồn tại
-                            return NotFound($"Sản phẩm với mã {item.MaSp} không tồn tại.");
-                        }
-                    }
-                }
-
-                // Lưu thay đổi vào database
-                var result = _context.SaveChanges();
-
-                if (result > 0) // Kiểm tra xem có thay đổi nào được ghi vào không
-                {
-                    return Ok(new { success = true });
-                }
-                else
-                {
-                    return StatusCode(500, "Không thể cập nhật giỏ hàng.");
-                }
-            }
-            catch (Exception ex)
-            {
-                // Ghi lại thông tin chi tiết về lỗi
-                return StatusCode(500, $"Đã xảy ra lỗi: {ex.Message}");
-            }
+            return BadRequest("Dữ liệu không hợp lệ.");
         }
 
+        int maKH = int.Parse(HttpContext.Session.GetString("MaKh"));
 
+        using (var connection = (SqlConnection)_context.Database.GetDbConnection())
+        {
+            connection.Open();
+            using (var transaction = connection.BeginTransaction())
+            {
+                try
+                {
+                    // 1. Xóa tất cả sản phẩm trong giỏ hàng của khách hàng hiện tại
+                    var deleteCommand = new SqlCommand(
+                        "DELETE FROM GioHang WHERE MaKH = @MaKH", connection, transaction);
+                    deleteCommand.Parameters.AddWithValue("@MaKH", maKH);
+                    deleteCommand.ExecuteNonQuery();
 
+                    // 2. Thêm từng sản phẩm mới vào giỏ hàng
+                    foreach (var item in cartItems)
+                    {
+                        if (item.SoLuong > 0)
+                        {
+                            var insertCommand = new SqlCommand(
+                                "INSERT INTO GioHang (MaKH, MaSP, SoLuong) VALUES (@MaKH, @MaSP, @SoLuong)",
+                                connection, transaction);
+                            insertCommand.Parameters.AddWithValue("@MaKH", maKH);
+                            insertCommand.Parameters.AddWithValue("@MaSP", item.MaSp);
+                            insertCommand.Parameters.AddWithValue("@SoLuong", item.SoLuong);
+
+                            insertCommand.ExecuteNonQuery();
+                        }
+                    }
+
+                    // Commit transaction if all commands succeed
+                    transaction.Commit();
+
+                    return Ok(new { success = true, message = "Giỏ hàng đã được cập nhật thành công!" });
+                }
+                catch (Exception ex)
+                {
+                    // Rollback transaction if any command fails
+                    transaction.Rollback();
+                    return StatusCode(500, $"Không thể cập nhật giỏ hàng: {ex.Message}");
+                }
+            }
+        }
     }
+
+}
 
 }

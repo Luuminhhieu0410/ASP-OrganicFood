@@ -55,20 +55,3 @@
        color:red;
    }
 </style>
-<script>
-    function addToCart(maSP) {
-        fetch(`/Cart/AddToCart`, {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json',
-            },
-            body: JSON.stringify({ maSP: maSP })
-        })
-            .then(response => response.json())
-            .then(data => {
-                // Cập nhật số lượng sản phẩm hiển thị trong giỏ
-                document.getElementById("cart-count").innerText = data.totalItems;
-            })
-            .catch(error => console.error('Error:', error));
-    }
-</script>
