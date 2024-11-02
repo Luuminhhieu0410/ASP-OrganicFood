@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using ThucPham.Models;
 using System.Linq;
 using Microsoft.Data.SqlClient;
+using System;
 
 namespace ThucPham.Controllers
 {
@@ -162,6 +163,22 @@ namespace ThucPham.Controllers
             }
         }
 
+        
+        public IActionResult DeleteItem(int MaSp)
+        {
+            TempData["Mes"] = "";
+            int maKH = int.Parse(HttpContext.Session.GetString("MaKh"));
+            var cartItem = _context.GioHangs.FirstOrDefault(g => g.MaKh == maKH && g.MaSp == MaSp);
+            if (cartItem != null)
+            {
+                _context.GioHangs.Remove(cartItem);
+                _context.SaveChanges();
+                TempData["Mes"] = "Xóa thành công";
+                return RedirectToAction("ShopCart", "Cart");
+            }
+            return RedirectToAction("ShopCart", "Cart");
+
+        }
 
     }
 

@@ -42,8 +42,9 @@
                                         @String.Format("{0:C}", item.TongTien)
                                     </td>
                                     <td class="shoping__cart__item__close">
-                                        <span class="icon_close"></span>
+                                        <a asp-controller="Cart" asp-action="DeleteItem" asp-route-MaSp ="@item.MaSp" > <span class="icon_close" data-masp="@item.MaSp"></span></a>
                                     </td>
+
                                 </tr>
                             }
                         </tbody>
@@ -131,13 +132,15 @@
                     console.error('Lỗi:', error);
                     alert("Không thể cập nhật giỏ hàng.");
                 });
+
         } else {
             alert("Không có sản phẩm hợp lệ trong giỏ hàng.");
         }
     });
 
-
+    
 </script>
+
 
 <style>
     .primary-btn{

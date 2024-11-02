@@ -1,4 +1,4 @@
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
 using System.Net.WebSockets;
@@ -61,5 +61,19 @@ namespace ThucPham.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+        public IActionResult Search(string query, int? page)
+        {
+            int pageSize = 8;
+            int pageNumber = page == null || page < 0 ? 1 : page.Value;
+
+            var lstsanpham = db.SanPhams.AsNoTracking()
+                .Where(x => x.TenSp.Contains(query))
+                .OrderBy(x => x.TenSp);
+
+            PagedList<SanPham> lst = new PagedList<SanPham>(lstsanpham, pageNumber, pageSize);
+            ViewBag.Query = query; // Để giữ lại truy vấn tìm kiếm trên view
+            return View("Index", lst); // Chuyển về view Index
+        }
+
     }
 }
